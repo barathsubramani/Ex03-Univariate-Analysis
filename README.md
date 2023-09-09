@@ -84,3 +84,41 @@ plt.show()
 
 ## Output:
 
+## DataSet
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/df.png")
+
+## df.head()
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/head.png")
+
+## df.tail()
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/tail.png")
+
+## df.nunique()
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/nuni.png")
+
+## df.iloc()
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/iloc.png")
+
+## Sepal
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal1.png")
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal2.png")
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal3.png")
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal4.png")
+
+## Countplot
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sns.png")
+
+## dfv
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/dfv.png")
+
+## dfs
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/dfs.png")
+
+## petal_length
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/plot.png")
+
+## sepal_length
+![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/last.png")
+
+## Result:
+The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
