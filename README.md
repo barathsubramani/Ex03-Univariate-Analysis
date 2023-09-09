@@ -85,10 +85,10 @@ plt.show()
 ## Output:
 
 ## DataSet
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/df.png")
+![image]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/df.png")
 
 ## df.head()
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/head.png")
+![image]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/head.png")
 
 ## df.tail()
 ![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/tail.png")
