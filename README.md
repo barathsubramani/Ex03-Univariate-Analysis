@@ -86,7 +86,7 @@ plt.show()
 
 ## DataSet
 
-![image]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/df.png")
+![model]("df.png")
 
 ## df.head
 
