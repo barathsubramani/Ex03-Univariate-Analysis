@@ -86,7 +86,7 @@ plt.show()
 
 ## DataSet
 
-![model]("df.png")
+![model](df.png)
 
 ## df.head
 
