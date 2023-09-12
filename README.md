@@ -90,47 +90,47 @@ plt.show()
 
 ## df.head
 
-![image]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/head.png")
+![image](head.png)
 
 ## df.tail()
 
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/tail.png")
+![model](tail.png)
 
 ## df.nunique()
 
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/nuni.png")
+![model](nuni.png)
 
 ## df.iloc()
 
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/iloc.png")
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/iloc.png)
 
 ## Sepal
 
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal1.png")
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal2.png")
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal3.png")
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal4.png")
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal1.png)
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal2.png)
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal3.png)
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal4.png)
 
 
 ## Countplot
 
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sns.png")
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sns.png)
 
 ## dfv
 
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/dfv.png")
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/dfv.png)
 
 ## dfs
 
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/dfs.png")
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/dfs.png)
 
 ## petal_length
 
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/plot.png")
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/plot.png)
 
 ## sepal_length
 
-![model]("https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/last.png")
+![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/last.png)
 
 
 ## Result:
