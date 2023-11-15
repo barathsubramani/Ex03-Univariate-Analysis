@@ -94,11 +94,6 @@ plt.show()
 ## Countplot
 
 ![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sns.png)
-
-## dfv
-
-![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/dfv.png)
-
 ## dfs
 
 ![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/dfs.png)
