@@ -90,9 +90,6 @@ plt.show()
 
 ![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/iloc.png)
 
-## Sepal
-
-![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal1.png)![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal2.png)![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal3.png)![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal4.png)
 
 ## Countplot
 
