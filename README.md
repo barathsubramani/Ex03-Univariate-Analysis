@@ -32,49 +32,35 @@ Name: Barath S
 Ref no: 212222230018
 ```
 ```python
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 df = pd.read_csv("iris (2).csv")
 df
-
 df.head()
-
 df.tail()
-
 df.nunique()
-
 df.iloc[:,4].value_counts()
-
 for i in range(0, df.shape[1]):
   print("--------",df.columns[i],"--------")
   print(df.iloc[:,i].value_counts())
   print("---------------------------------")
-
 sns.countplot(x = 'species',data = df)
-
 dfv=df.loc[df['species']=='virginica']
-
 plt.plot(dfv['sepal_length'],np.zeros_like(dfv['sepal_length']),'*')
 plt.xlabel('sepal length')
 plt.show()
 ##plt.plot(df_setosa['sepal_length'],np.zeros_like(df_setosa['sepal_length']),'o')
-
 dfs=df.loc[df['species']=='setosa']
 dfc=df.loc[df['species']=='versicolor']
-
 plt.plot(dfs['sepal_length'],np.zeros_like(dfs['sepal_length']),'*')
 plt.plot(dfc['sepal_length'],np.zeros_like(dfc['sepal_length']),'X')
-
 plt.plot(dfv['sepal_length'],np.zeros_like(dfv['sepal_length']),'o')
 plt.plot(dfs['sepal_length'],np.zeros_like(dfs['sepal_length']),'*')
 plt.plot(dfc['sepal_length'],np.zeros_like(dfc['sepal_length']),'X')
 plt.xlabel('petal_length')
 plt.show()
-
 plt.plot(dfv['sepal_length'],np.zeros_like(dfv['sepal_length']),'o')
 plt.plot(dfs['sepal_length'],np.zeros_like(dfs['sepal_length']),'+')
 plt.plot(dfc['sepal_length'],np.zeros_like(dfc['sepal_length']),'-')
@@ -107,10 +93,6 @@ plt.show()
 ## Sepal
 
 ![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal1.png)![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal2.png)![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal3.png)![model](https://github.com/barathsubramani/Ex03-Univariate-Analysis/blob/main/sepal4.png)
-
-
-
-
 
 ## Countplot
 
